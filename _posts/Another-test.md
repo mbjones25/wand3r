@@ -3,6 +3,7 @@ layout: post
 title: "Another Test Post"
 categories: [link post]
 link: http://purple.com
+date: 2018-01-05
 share: true
 ---
 
